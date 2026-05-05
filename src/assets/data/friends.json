@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": 1,
+    "name": "Nadia Rahman",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400",
+    "email": "nadia.rahman@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["university", "close"],
+    "bio": "University debate club theke porichoy. Ekhono career goals aar books niye kotha hoy.",
+    "goal": 14,
+    "next_due_date": "2026-05-14"
+  },
+  {
+    "id": 2,
+    "name": "Arif Hossain",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "email": "arif.hossain@example.com",
+    "days_since_contact": 19,
+    "status": "almost due",
+    "tags": ["work", "mentor"],
+    "bio": "Previous office er senior. Professional growth niye khub helpful advice dey.",
+    "goal": 21,
+    "next_due_date": "2026-05-08"
+  },
+  {
+    "id": 3,
+    "name": "Maya Thompson",
+    "picture": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=400",
+    "email": "maya.thompson@example.com",
+    "days_since_contact": 33,
+    "status": "overdue",
+    "tags": ["travel", "friend"],
+    "bio": "Backpacking trip e bondhutto hoy. Travel plans aar food spots share kori.",
+    "goal": 24,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Kim",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+    "email": "daniel.kim@example.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["fitness", "friend"],
+    "bio": "Morning running group er friend. Fitness challenge e amake motivate kore.",
+    "goal": 15,
+    "next_due_date": "2026-05-11"
+  },
+  {
+    "id": 5,
+    "name": "Farhana Islam",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+    "email": "farhana.islam@example.com",
+    "days_since_contact": 26,
+    "status": "almost due",
+    "tags": ["school", "art"],
+    "bio": "School friend. Art exhibitions aar creative ideas niye regular kotha hoy.",
+    "goal": 30,
+    "next_due_date": "2026-05-09"
+  },
+  {
+    "id": 6,
+    "name": "Leo Martinez",
+    "picture": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=400",
+    "email": "leo.martinez@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["gaming", "online"],
+    "bio": "Online gaming server theke porichoy. Tech news aar esports niye adda hoy.",
+    "goal": 28,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 7,
+    "name": "Priya Kapoor",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400",
+    "email": "priya.kapoor@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["family", "food"],
+    "bio": "Family friend. New recipes aar weekend dinner plans niye connect thaki.",
+    "goal": 12,
+    "next_due_date": "2026-05-18"
+  },
+  {
+    "id": 8,
+    "name": "Ethan Brooks",
+    "picture": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400",
+    "email": "ethan.brooks@example.com",
+    "days_since_contact": 22,
+    "status": "almost due",
+    "tags": ["startup", "network"],
+    "bio": "Startup meetup e porichoy. Product ideas aar business trends niye kotha hoy.",
+    "goal": 25,
+    "next_due_date": "2026-05-10"
+  },
+  {
+    "id": 9,
+    "name": "Sabrina Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+    "email": "sabrina.chowdhury@example.com",
+    "days_since_contact": 39,
+    "status": "overdue",
+    "tags": ["music", "close"],
+    "bio": "Concert buddy. New albums, playlists aar live shows niye amader onek kotha hoy.",
+    "goal": 21,
+    "next_due_date": "2026-04-29"
+  },
+  {
+    "id": 10,
+    "name": "Noah Wilson",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400",
+    "email": "noah.wilson@example.com",
+    "days_since_contact": 13,
+    "status": "on-track",
+    "tags": ["photography", "friend"],
+    "bio": "Photography walk e porichoy. Camera gear aar city shots niye inspiration share kori.",
+    "goal": 18,
+    "next_due_date": "2026-05-12"
+  }
+]

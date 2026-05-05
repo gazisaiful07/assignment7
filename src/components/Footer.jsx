@@ -1,3 +1,8 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faInstagram, faFacebook, faXTwitter } from "@fortawesome/free-brands-svg-icons";
+
+
+
 const Footer= ()=> {
   return (
     <footer className="bg-[#244d3f] text-white mt-20">
@@ -9,12 +14,12 @@ const Footer= ()=> {
 
         <h3 className="font-semibold mb-4">Social Links</h3>
         <div className="flex justify-center gap-4 mb-10">
-          <span className="bg-white text-green-700 w-10 h-10 rounded-full grid place-items-center">◎</span>
-          <span className="bg-white text-green-700 w-10 h-10 rounded-full grid place-items-center">f</span>
-          <span className="bg-white text-green-700 w-10 h-10 rounded-full grid place-items-center">𝕏</span>
+          <span><FontAwesomeIcon icon={faInstagram} /></span>
+          <span><FontAwesomeIcon icon={faFacebook} /></span>
+          <span ><FontAwesomeIcon icon={faXTwitter} /></span>
         </div>
 
-        <div className="border-t border-green-700 pt-6 flex flex-col md:flex-row justify-between text-blue-200 text-sm">
+        <div className="border-t border-green-700 pt-6 flex flex-col md:flex-row justify-between text-gray-400 text-sm">
           <p>© 2026 KeenKeeper. All rights reserved.</p>
           <div className="flex gap-6 justify-center mt-4 md:mt-0">
             <p>Privacy Policy</p>
