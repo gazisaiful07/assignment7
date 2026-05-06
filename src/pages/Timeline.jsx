@@ -2,7 +2,6 @@ import React from 'react';
 import { useEffect, useState } from "react";
 const defaultTimeline = [];
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
 import { faPhone, faMessage, faVideo, faHandshake, } from "@fortawesome/free-solid-svg-icons";
 
 const Timeline = () => {
