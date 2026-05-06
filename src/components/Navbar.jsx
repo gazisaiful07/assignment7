@@ -11,7 +11,7 @@ const Navbar = () => {
         }`;
 
     return (
-        <nav className="bg-white border-b shadow-sm">
+        <nav className="bg-white shadow-sm">
             <div className="max-w-6xl mx-auto px-5 py-4 flex justify-between items-center">
                 <NavLink to="/" className="text-2xl font-bold">
                     Keen<span className="text-[#244D3F]">Keeper</span>
